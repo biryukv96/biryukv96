@@ -3,7 +3,7 @@
 
 ## About me
 
-- 🕵 QA Engineer at [![Header](https://img.shields.io/badge/Sibers-090909??style=flat)](https://sibers.com/)
+- 🕵 QA Engineer at [Sibers](https://sibers.com/)
 - 👨‍💻 I devote a lot of time to studying the material in my specialty and learning English.
 
 ## My CV
@@ -22,6 +22,5 @@
 
 ## Follow me
 [![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vasily-biryuk-65102424b/?locale=en_US)
-[![Header](https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=Gmail)](vasabiruk99077@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biryukv96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,15 +1,15 @@
 ![Header](https://github.com/biryukv96/biryukv96/blob/main/assets/undefined%20-%20Imgur%20(1).gif)
-### I am a passionate QA Engineer - self-taught.
+## I am a passionate QA Engineer - self-taught.
 
-### About me
+## About me
 
 - 🕵 QA Engineer at [Sibers](https://sibers.com/)
 - 👨‍💻 I devote a lot of time to studying the material in my specialty and learning English.
 
-### My CV
+## My CV
 [Link to my CV](https://drive.google.com/file/d/1T9yDps1ad79t9hNz6SlvWlT9eH76M-he/view?usp=sharing)
 
-### Languages and Tools
+## Languages and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
@@ -20,7 +20,7 @@
 ![Header](https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=GoogleChrome)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge)
 
-### Follow me
+## Follow me
 [![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vasily-biryuk-65102424b/?locale=en_US)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biryukv96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

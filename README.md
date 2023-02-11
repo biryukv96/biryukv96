@@ -9,7 +9,10 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=GoogleChrome)
-![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 ![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=Xcode)
 ![Header](https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=GoogleChrome)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge)
+
+## Follow me
+[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/vasily-biryuk-65102424b)

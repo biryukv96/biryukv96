@@ -3,7 +3,7 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1T9yDps1ad79t9hNz6SlvWlT9eH76M-he/view?usp=sharing)
 
-### Languages and Tools
+## Languages and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
@@ -16,3 +16,5 @@
 
 ## Follow me
 [![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vasily-biryuk-65102424b/?locale=en_US)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biryukv96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

@@ -15,4 +15,4 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge)
 
 ## Follow me
-[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/vasily-biryuk-65102424b)
+[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vasily-biryuk-65102424b/?locale=en_US)

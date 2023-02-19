@@ -7,7 +7,7 @@
 - 👨‍💻 I devote a lot of time to studying the material in my specialty and learning English.
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1T9yDps1ad79t9hNz6SlvWlT9eH76M-he/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/16IyghkbSTgcYIbySJRH4zcIgiqCr-Grg/view?usp=sharing)
 
 ## Languages and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello)

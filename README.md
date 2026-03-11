@@ -20,8 +20,7 @@
 ![Header](https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=GoogleChrome)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
+![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter)
 
 ## Follow me
 [![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vasily-biryuk-65102424b/?locale=en_US)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biryukv96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
